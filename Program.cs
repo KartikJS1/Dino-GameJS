@@ -53,7 +53,7 @@ class Program
                 }
             ");
 
-            if (obstacle != null && obstacle.x < 150)
+            if (obstacle != null && obstacle.x < 100)
             {
                 if (obstacle.type == "PTERODACTYL")
                 {
